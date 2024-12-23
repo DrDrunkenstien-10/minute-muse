@@ -1,1 +1,5 @@
 openai-whisper
+ffmpeg-python
+pydub
+mistralai
+python-dotenv
