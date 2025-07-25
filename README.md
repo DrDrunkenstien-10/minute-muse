@@ -124,7 +124,7 @@ PRs, issues, and suggestions are welcome!
 If you find this useful, consider giving a ⭐ on GitHub!
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
 Feel free to use, modify, and distribute with attribution.
 
 ## 🙋‍♂️ Author
