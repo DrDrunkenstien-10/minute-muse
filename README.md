@@ -1,7 +1,7 @@
 # MinuteMuse
 
-[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 **MinuteMuse** is an AI-powered tool for automating the generation of meeting minutes and action items from meeting transcriptions. By leveraging advanced audio processing and language models, MinuteMuse simplifies post-meeting workflows and improves productivity.
 
