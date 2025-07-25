@@ -34,14 +34,6 @@ The project is actively being improved! Planned enhancements include:
 - Whisper (speech-to-text)
 - Mistral API (for summary generation)
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## 🚀 Getting Started (Local Setup)
@@ -74,8 +66,8 @@ The project is actively being improved! Planned enhancements include:
    ```
 4. Set up the environment variables:
 
-    1. Create a .env file in the project root.
-    2. Add the following variables:
+   Create a .env file in the project root.
+   Add the following variables:
    ```bash
    MISTRAL_API_KEY=<MISTRAL_API_KEY>
    ```
