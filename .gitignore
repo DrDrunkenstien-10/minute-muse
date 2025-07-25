@@ -12,6 +12,9 @@ input/
 # Output directory
 output/
 
+# Upload directory
+uploads/
+
 # Logs
 *.log
 

@@ -3,3 +3,4 @@ ffmpeg-python
 pydub
 mistralai
 python-dotenv
+Flask
